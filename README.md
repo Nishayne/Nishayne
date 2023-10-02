@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there, My name is Nishayne and welcome to my GitHub profile! 👋
+### 🌱 I’m an aspiring Web Developer!
 <!--
 **Nishayne/Nishayne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
