@@ -17,6 +17,11 @@
 <div><p>My Profile Overview: </p></div>
 
 ![Nishayne's github stats](https://github-readme-stats.vercel.app/api?username=Nishayne&show_icons=true)
+<br/>
+<br/>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nishayne&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="Nishayne" /></p>
+
 <br />
 <br />
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Nishayne.Nishayne)
